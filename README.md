@@ -1,3 +1,12 @@
+Project Objective 
+=======
+App to Converter Full HD Pixels to Windows Phone Proportions.
+
+Inspired by:
+http://www.teehanlax.com/tools/density/
+
+Some scales to help build some project on Windows Phone Densities.
+
 Flat UI Pro 1.2.1
 =======
 
